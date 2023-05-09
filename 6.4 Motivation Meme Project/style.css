@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+.poster{
+    text-align: center;
+    color: white;
+    margin-top: 40px;
+}
+
+h1{
+    font-size: 3rem;
+}
+
+.motivation-image {
+    border: 5px solid white;
+    width: 100%;
+  }
+  
